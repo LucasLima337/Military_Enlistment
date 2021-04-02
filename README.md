@@ -1,6 +1,6 @@
-# Alistamento Militar
- Programa feito em Python que te informa em que ano você deve se alistar, quantos anos já se passaram do seu alistamento ou quantos anos ainda faltam.
+# Military Enlistment
+ Program created using Python language that shows you which year you should enlist, how many years have passed since your enlisment or how many years still left.
 
- O programa também permite que o usuário coloque o seu gênero e diga se é obrigatório ou não o alistamento.
+ The program also allows the user put your gender and it tells if the enlisment is required or not.
 
-OBS: Para uma melhor visualização, utilizar o Pycharm.
+OBS: You should use Pycharm to get a better experience.
